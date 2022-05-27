@@ -2883,6 +2883,6 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
-.site-header__logo{
+a.site-header__logo-link{
   background-color: red;
 }
