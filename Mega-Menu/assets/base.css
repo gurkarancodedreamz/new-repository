@@ -2884,5 +2884,5 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 a.site-header__logo-link{
-  background-color: green;
+  background-color: green !important;
 }
